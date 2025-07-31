@@ -51,10 +51,10 @@ Funciones basicas completadas ( añadir, mostrar, sortear amigo y mostrar el ami
 -----
 ## Acceso al proyecto
 
-Puedes clonar este reñpositorio y abrir el archivo `index.html` en tu navegador:
+Puedes clonar este repositorio y abrir el archivo `index.html` en tu navegador:
 
  ```bash
-  git clone https://
+  git clone https://github.com/turismomexico/Challenge-Amigo-Secreto.git
   ```
 
 -----
